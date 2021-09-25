@@ -1,3 +1,3 @@
 # problemsolving_exz
 
-problem solving exercises from hacker rank
+here are my solutions for the problem solving exercises from hacker rank
