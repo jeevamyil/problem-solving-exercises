@@ -16,4 +16,4 @@ migratoryBirds has the following parameter(s):
 
 * int: the lowest type id of the most frequently sighted birds
 
-**more details at [Hackerrank](https://www.hackerrank.com/challenges/migratory-birds/problem)
+**more details at** [Hackerrank](https://www.hackerrank.com/challenges/migratory-birds/problem)
